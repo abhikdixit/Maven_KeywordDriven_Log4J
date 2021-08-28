@@ -1,0 +1,8 @@
+22:58:33.962 [main] DEBUG com.keyword.BasePage - Navigate to : url 
+22:58:34.083 [main] DEBUG com.keyword.BasePage - Entered value: admin in web element username
+22:58:34.186 [main] DEBUG com.keyword.BasePage - Entered value: admin123 in web element password
+22:58:38.293 [main] DEBUG com.keyword.BasePage - Clicked on loginButton web element
+09:30:52.654 [main] DEBUG com.keyword.BasePage - Navigate to : url 
+09:30:52.993 [main] DEBUG com.keyword.BasePage - Entered value: admin in web element username
+09:30:53.300 [main] DEBUG com.keyword.BasePage - Entered value: admin123 in web element password
+09:30:57.538 [main] DEBUG com.keyword.BasePage - Clicked on loginButton web element
